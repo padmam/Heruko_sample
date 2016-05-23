@@ -1,0 +1,3 @@
+[submodule "snap_gocd"]
+	path = snap_gocd
+	url = https://github.com/padmam/snap_gocd
