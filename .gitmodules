@@ -1,0 +1,6 @@
+[submodule "snap_gocd"]
+	path = snap_gocd
+	url = https://github.com/padmam/snap_gocd
+[submodule "Mingle_Outlook"]
+	path = Mingle_Outlook
+	url = https://github.com/ankitsri11/Mingle_Outlook
