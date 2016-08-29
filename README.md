@@ -27,7 +27,10 @@ $ git push heroku master
 $ heroku run rake db:migrate
 $ heroku open
 ```
-
+test to check
+came here to test
+again
+come on
 or
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
